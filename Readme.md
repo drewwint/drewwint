@@ -7,5 +7,5 @@
     <img src="https://komarev.com/ghpvc/?username=drewwint&style=flat-square&color=yellowgreen">
 </p>
 
-
+<p align="center">
 [Github stats](https://github-readme-stats.vercel.app/api?username=drewwint&theme=highcontrast&show_icons=true&count_private=true&count_private=true)   |   [Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=drewwint&theme=highcontrast&layout=compact) 
