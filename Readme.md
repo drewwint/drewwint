@@ -7,8 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=drewwint&style=flat-square&color=yellowgreen">
 </p>
 
-<p align="center">
-    
-[Github stats](https://github-readme-stats.vercel.app/api?username=drewwint&theme=highcontrast&show_icons=true&count_private=true&count_private=true)   |   [Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=drewwint&theme=highcontrast&layout=compact) 
 
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=drewwint&theme=highcontrast&show_icons=true&count_private=true&count_private=true" target="_blank"><img src="https://img.shields.io/twitter/url?color=green&label=Github Stats&style=flat-square&url=https%3A%2F%2Fhttps://github-readme-stats.vercel.app/api?username=drewwint&theme=highcontrast&show_icons=true&count_private=true&count_private=true"></a>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=drewwint&theme=highcontrast&layout=compact" target="_blank"><img src="https://img.shields.io/twitter/url?color=green&label=Languages&style=flat-square&url=https%3A%2F%2Fhttps://github-readme-stats.vercel.app/api/top-langs/?username=drewwint&theme=highcontrast&layout=compact"></a>
 </p>
+
+
